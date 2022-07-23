@@ -3,5 +3,5 @@ package testMod
 import "fmt"
 
 func Hello(name string) {
-	fmt.Printf("hello, %s", name)
+	fmt.Printf("你好, %s", name)
 }
